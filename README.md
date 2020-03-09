@@ -1,2 +1,3 @@
-# electron-mocha-testing
-Proof of concept of an integrated testing environment. Aim is to perform full end-to-end testing framework with Electron, Mocha, ReactJS, NodeJS (Express), TypeScript and Browser Monkey.
+# Electron Mocha testing with React - Express - TypeScript
+
+Example of fully end-end, integrated testing environment using Electron, Mocha, ReactJS, NodeJS (Express) and Browser Monkey.
