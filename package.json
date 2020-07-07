@@ -35,7 +35,7 @@
     "chai": "^4.2.0",
     "chalk": "^3.0.0",
     "child_process": "^1.0.2",
-    "electron": "^7.1.10",
+    "electron": "^7.2.4",
     "electron-devtools-installer": "^2.2.4",
     "electron-mocha": "^8.2.0",
     "electron-rebuild": "^1.9.0",
