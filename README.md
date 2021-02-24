@@ -38,7 +38,5 @@ The gif video from the demo is attached.
 
 ## Thank you
 
-Thank you, Featurist, (https://featurist.co.uk/) for showing me this way of testing resulted in passing this knowledge further, changing my way of thinking about web application testing.
-
-Thank you, JPRichardson (https://github.com/jprichardson/electron-mocha) for Electron Mocha package that saved a lot of time in reinventing the wheel.
+Thank you Featurist (https://featurist.co.uk/) for changing my way of thinking about web application testing. Thank you, JPRichardson (https://github.com/jprichardson/electron-mocha) for Electron Mocha package that saved a lot of time whilst preparing this demo.
 
