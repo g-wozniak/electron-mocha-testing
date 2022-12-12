@@ -41,7 +41,7 @@
     "electron-rebuild": "^1.11.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.23.3",
     "jest": "^25.5.4",
     "jsdom-global": "^3.0.2",
